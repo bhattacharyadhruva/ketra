@@ -25,7 +25,8 @@ https://features.ketramart.com
 - Contact forms with message,
 - Related Products, Recommendations for you in our categories
 - A Product search form
-- User Profile Management
+- User Profile Management!
+
 
 many more......
 
@@ -60,21 +61,13 @@ Many more....
 
 
   ### Screenshots-Demo
-  <kbd>![screenshot-demo1](./screenshots/white-dashboard.png)</kbd><br>
+  <kbd>![screenshot-demo1](https://user-images.githubusercontent.com/126355857/221583970-ca87d686-7da9-45fb-bf34-91a51ab11837.png)</kbd><br>
   
-  <kbd>![screenshot-demo2](./screenshots/dark-dashboard.png)</kbd><br>
+  <kbd>![screenshot-demo2]((https://user-images.githubusercontent.com/126355857/221584075-f20a866d-15b4-47c0-8a7a-204640514cff.png)</kbd><br>
   
- <kbd>![screenshot-demo3](./screenshots/add-product.png)</kbd><br>
+ <kbd>![screenshot-demo3](https://user-images.githubusercontent.com/126355857/221584267-0bf09c30-01f4-42a2-89a3-3099e842649a.png)</kbd><br> 
  
- <kbd>![screenshot-demo4](./screenshots/product-list.png)</kbd><br>
- 
-  <kbd>![screenshot-demo5](./screenshots/category-list.png)</kbd><br>
-  
-  <kbd>![screenshot-demo6](./screenshots/order-list.png)</kbd><br>
-   
-  <kbd>![screenshot-demo7](./screenshots/order-detail.png)</kbd><br>
-    
-  <kbd>![screenshot-demo8](./screenshots/genera-settings.png)</kbd><br>
+ <kbd>![screenshot-demo4](https://user-images.githubusercontent.com/126355857/221584400-460711c3-fe21-431b-8ce0-09dada73f832.png)</kbd><br> 
 
  ## Author Contact
   Contact me with any questions!<br>
