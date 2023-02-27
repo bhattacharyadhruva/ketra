@@ -1,3 +1,6 @@
+## INTRODUCTION :
+
+Ketra mart is an ecommerce website that is specifically designed for women. It offers an immersive way to shop for new items, but it is totally different from marketplace websites like Amazon and Nykaa. Ketra mart provides a more professional shopping experience, with access to exclusive deals and discounts. Plus, its customer service is superb, offering 24/7 support for any questions or concerns you may have. Whether you're looking for the perfect gift for a special occasion or just treating yourself to something new, Ketra mart is the ideal place to shop.
 
 ## APP FEATURES :
 
