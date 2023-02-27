@@ -14,8 +14,6 @@ https://free.ketramart.com/admin
 
 https://ketramart.com/admin
 
-#### FEATURES
-https://features.ketramart.com
 
 ##  FRONT-END 
 
