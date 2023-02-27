@@ -63,7 +63,7 @@ Many more....
   ### Screenshots-Demo
   <kbd>![screenshot-demo1](https://user-images.githubusercontent.com/126355857/221583970-ca87d686-7da9-45fb-bf34-91a51ab11837.png)</kbd><br>
   
-  <kbd>![screenshot-demo2]((https://user-images.githubusercontent.com/126355857/221584075-f20a866d-15b4-47c0-8a7a-204640514cff.png)</kbd><br>
+  <kbd>![screenshot-demo2](https://user-images.githubusercontent.com/126355857/221584075-f20a866d-15b4-47c0-8a7a-204640514cff.png)</kbd><br>
   
  <kbd>![screenshot-demo3](https://user-images.githubusercontent.com/126355857/221584267-0bf09c30-01f4-42a2-89a3-3099e842649a.png)</kbd><br> 
  
